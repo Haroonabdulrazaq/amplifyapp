@@ -1,5 +1,5 @@
 # Tutorial Getting started from AWS Amplify
-    This tutorial is aimed at learning how to use
+This tutorial is aimed at learning how to use
 - AWS amplify with Front-end Framework like React
 - Deployment
 - AWS amplicy CLI and its configuration
