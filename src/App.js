@@ -10,6 +10,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>We now have Auth!</h1>
         <p>Making changes to correct build error</p>
+        <p>Add service role of AmplifyConsoleServiceRole-AmplifyRole</p>
       </header>
       <AmplifySignOut />
     </div>
