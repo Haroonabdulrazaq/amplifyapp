@@ -4,7 +4,7 @@ This tutorial is aimed at learning how to use
 - Deployment
 - AWS amplicy CLI and its configuration
 - Continuous Integration and Continuous Development (CI/CD)
-- Add authentication using pre-built AWS Amplify
+- Add pre-built user authentication from AWS Amplify
 - Integrating GraphQl and Databases.
 
 > Open AWS [Getting Started](https://aws.amazon.com/getting-started/) Front-End Development Section.
