@@ -1,5 +1,5 @@
 # Tutorial Getting started from AWS Amplify
-This tutorial is aimed at learning how to use:
+This tutorial is aimed at learning how to use
     - AWS amplify with Front-end Framework like React
     - Deployment
     - AWS amplicy CLI and its configuration
@@ -7,11 +7,11 @@ This tutorial is aimed at learning how to use:
     - Add authentication using pre-built AWS Amplify
     - Integrating GraphQl and Databases.
 
-> Open [Getting Started](https://aws.amazon.com/getting-started/) Front-End Development Section.
+> Open AWS [Getting Started](https://aws.amazon.com/getting-started/) Front-End Development Section.
 
 
 # Live Demo :rocket: :rocket:
-Open [Live Link](https://master.d2rpg1t7ow4rju.amplifyapp.com/) Front-End Developer Section.
+Open [Live Link](https://master.d2rpg1t7ow4rju.amplifyapp.com/) For this repo.
 
 
 ## Available Scripts
